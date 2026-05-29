@@ -1,0 +1,13 @@
+{
+  "model": "gpt-4o-mini-practise",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful AI assistant. Answer clearly and briefly."
+    },
+    {
+      "role": "user",
+      "content": "Explain Microsoft Foundry in one simple sentence."
+    }
+  ]
+}
