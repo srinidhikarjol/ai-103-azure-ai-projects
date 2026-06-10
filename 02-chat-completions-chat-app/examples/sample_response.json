@@ -1,0 +1,19 @@
+{
+  "id": "chatcmpl-example",
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Azure AI Foundry is useful because it gives developers a central place to build, test, deploy, and evaluate AI applications using Azure models, tools, and responsible AI features."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 120,
+    "completion_tokens": 35,
+    "total_tokens": 155
+  }
+}
